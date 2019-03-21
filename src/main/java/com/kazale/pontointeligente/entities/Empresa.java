@@ -28,7 +28,7 @@ public class Empresa<Funcionario> implements Serializable {
         return id;
     }
 
-    public void serId(long id){
+    public void setId(long id){
         this.id = id;
     }
 
